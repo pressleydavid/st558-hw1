@@ -33,26 +33,5 @@
     "title": "HW 1 Data Science",
     "section": "R Code",
     "text": "R Code\nDensity plot of Iris petal width\n\ny &lt;- density(iris$Petal.Width)\n\nClass of y\n\nclass(y)\n\n[1] \"density\"\n\n\nType of y\n\ntypeof(y)\n\n[1] \"list\"\n\n\nStructure of y\n\nstr(y)\n\nList of 8\n $ x         : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y         : num [1:512] 0.00161 0.00178 0.00197 0.00217 0.00239 ...\n $ bw        : num 0.252\n $ n         : int 150\n $ old.coords: logi FALSE\n $ call      : language density.default(x = iris$Petal.Width)\n $ data.name : chr \"iris$Petal.Width\"\n $ has.na    : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\nPlot of y (density curve of Iris Petal Width)"
-  },
-  {
-    "objectID": "lpeg_troubleshooting.html",
-    "href": "lpeg_troubleshooting.html",
-    "title": "lpeg_troubleshoot",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "lpeg_troubleshooting.html#quarto",
-    "href": "lpeg_troubleshooting.html#quarto",
-    "title": "lpeg_troubleshoot",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "lpeg_troubleshooting.html#running-code",
-    "href": "lpeg_troubleshooting.html#running-code",
-    "title": "lpeg_troubleshoot",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
