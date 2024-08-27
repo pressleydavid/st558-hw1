@@ -16,7 +16,7 @@ Data Science is a rapidly evolving field that encompasses a breadth and depth of
 
 ## My World View
 
-My educational pathway has been long and winding, kinda like a Family Circus cartoon. I began my journey at NC State, graduating with a degree in Biochemistry, didn't want to assume student debt so worked in the corporate world, came back and went through the computer programming certificate program, then spent my formative years as a SAS programmer for the pharmaceutical industry. I took a few graduate level stats courses with the goal of a Master's degree in an analytical role, and also started a family, so spent the next fifteen years working to provide. I am now back at NC State working towards my MBA, but I am also unemployed and want to find a role in data science/engineering while I work towards completion of the MBA. In pharma, there is a clear distinction between statisticians and data engineers—we refer to teh data engineers as data managers, and there is a broad range of expertise among them, with most being more clerical in nature but some who understand how to work with a relational database and write code to tidy and transform data into the applicable data standards required by FDA for the purpose of submitting marketing applications for new drugs, biologics, and devices. I see myself as an interdisciplinary technologist. I can write, I can reason, and I can communicate to colleagues and leadership, but what I really want to get back to is writing and working towards building my Digital Tradesman practice, especially while I work towards my MBA.
+I began my educational journey at NC State, graduating with a degree in Biochemistry. I didn't want to assume student debt so worked in the corporate world, came back and went through the computer programming certificate program, then spent my formative years as a SAS programmer for the pharmaceutical industry. I took a few graduate level stats courses with the goal of a Master's degree in an analytical role, and also started a family, so spent the next fifteen years working to provide. I am now back at NC State working towards my MBA, but I am also unemployed and want to find a role in data science/engineering while I work towards completion of the MBA. In pharma, there is a clear distinction between statisticians and data engineers—we refer to teh data engineers as data managers, and there is a broad range of expertise among them, with most being more clerical in nature but some who understand how to work with a relational database and write code to tidy and transform data into the applicable data standards required by FDA for the purpose of submitting marketing applications for new drugs, biologics, and devices. I see myself as an interdisciplinary technologist. I can write, I can reason, and I can communicate to colleagues and leadership, but what I really want to get back to is writing and working towards building my Digital Tradesman practice, especially while I work towards my MBA.
 
 ## R Code
 
@@ -26,15 +26,11 @@ Density plot of Iris petal width
 y <- density(iris$Petal.Width)
 ```
 
-
-
 Class of y
 
 ```{r}
 class(y)
 ```
-
-
 
 Type of y
 
@@ -42,15 +38,11 @@ Type of y
 typeof(y)
 ```
 
-
-
 Structure of y
 
 ```{r}
 str(y)
 ```
-
-
 
 Plot of y (density curve of Iris Petal Width)
 
