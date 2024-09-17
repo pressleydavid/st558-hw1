@@ -8,35 +8,31 @@ editor: visual
 
 Data science can be broadly characterized by:
 
-* Data access and import into a computing environment
+-   Data access and import into a computing environment
 
-* tidying the data to ensure a consistent data standard - imputing missing values according to requirements - formatting date values according to requirements
+-   tidying the data to ensure a consistent data standard - imputing missing values according to requirements - formatting date values according to requirements
 
-* transforming the data to ensure it can be analyzed appropriately
+-   transforming the data to ensure it can be analyzed appropriately
 
-* visualizing to gain intuition and check assumptions of the data
+-   visualizing to gain intuition and check assumptions of the data
 
-* modeling to predict outcomes
+-   modeling to predict outcomes
 
-* communicating to show understanding of the problem and show results
-
+-   communicating to show understanding of the problem and show results
 
 Data Science can be further delineated into the functions and roles of:
 
-- Engineering
+-   Engineering
 
-- Analysis
+-   Analysis
 
-- Modeling and Inference
-
+-   Modeling and Inference
 
 ## Statisticians vs Data Scientists
 
 Data Science is a rapidly evolving field that encompasses a breadth and depth of interdisciplinary expertise in numerous domains including statistics and machine learning, data architecture and engineering, systems architecture, computer science, and the soft skills to effectively engage upstream data stewards and downstream colleagues and interested parties.
 
 In my experience and from a corporate perspective, statisticians often focus on the later stages of data science projects, such as modeling, analysis, visualization, and communication. They collaborate with others to define requirements early on, leaving data access, import, cleaning, and transformation to more technical roles. This highlights a practical distinction between these two skill sets in a corporate setting, because of the separation of concerns between job functions and access privileges to corporate data. In a more academic setting, even for my own personal projects surrounding NFL data, I find that as a burgeoning data scientist, I must be able to function across the entire data science lifecycle.
-
-
 
 ## My World View
 
